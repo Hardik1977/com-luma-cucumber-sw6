@@ -1,0 +1,51 @@
+2023-05-16 22:05:980 INFO  GearPage :60 - Click on Product [[ChromeDriver: chrome on WINDOWS (c05f9ba577ea6f8632ee4df2ed98f97a)] -> xpath: //a[contains(text(),'Overnight Duffle ')]]
+2023-05-16 22:05:77 INFO  GearPage :65 - Verify Text from Webpage
+2023-05-16 22:05:444 INFO  GearPage :71 - Send text to username : [[ChromeDriver: chrome on WINDOWS (c05f9ba577ea6f8632ee4df2ed98f97a)] -> id: qty]
+2023-05-16 22:05:578 INFO  GearPage :78 - Click on add to cart [[ChromeDriver: chrome on WINDOWS (c05f9ba577ea6f8632ee4df2ed98f97a)] -> id: product-addtocart-button]
+2023-05-16 22:05:613 INFO  GearPage :82 - Verify Text from Webpage
+2023-05-16 22:05:579 INFO  GearPage :89 - Click on shopping cart link [[ChromeDriver: chrome on WINDOWS (c05f9ba577ea6f8632ee4df2ed98f97a)] -> xpath: //a[text()='shopping cart']]
+2023-05-16 22:05:613 INFO  GearPage :94 - Verify Text from Webpage
+2023-05-16 22:05:872 INFO  GearPage :99 - Verify Text from Webpage
+2023-05-16 22:05:90 INFO  GearPage :104 - Verify Text from Webpage
+2023-05-16 22:05:297 INFO  GearPage :117 - Click on update button [[ChromeDriver: chrome on WINDOWS (c05f9ba577ea6f8632ee4df2ed98f97a)] -> xpath: //span[text()='Update Shopping Cart']]
+2023-05-16 22:05:318 INFO  GearPage :121 - Verify Text from Webpage
+2023-05-16 22:05:148 INFO  GearPage :64 - Click on shopping cart link [[ChromeDriver: chrome on WINDOWS (968000562a0164f2434279ccba21aa67)] -> css selector: a[id='ui-id-11'] span:nth-child(1)]
+2023-05-16 22:05:593 INFO  WomenPage :42 - Select from dropdown list : [[ChromeDriver: chrome on WINDOWS (968000562a0164f2434279ccba21aa67)] -> id: sorter]
+2023-05-16 22:05:723 INFO  GearPage :64 - Click on shopping cart link [[ChromeDriver: chrome on WINDOWS (9751117b492e092370b3b180a19e8af2)] -> css selector: a[id='ui-id-11'] span:nth-child(1)]
+2023-05-16 22:05:100 INFO  WomenPage :46 - Select from dropdown list : [[ChromeDriver: chrome on WINDOWS (9751117b492e092370b3b180a19e8af2)] -> id: sorter]
+2023-05-16 23:05:717 INFO  GearPage :60 - Click on Product [[ChromeDriver: chrome on WINDOWS (c0cad63cc455ec70f160907d1c8ac635)] -> xpath: //a[contains(text(),'Overnight Duffle ')]]
+2023-05-16 23:05:771 INFO  GearPage :65 - Verify Text from Webpage
+2023-05-16 23:05:329 INFO  GearPage :71 - Send text to username : [[ChromeDriver: chrome on WINDOWS (c0cad63cc455ec70f160907d1c8ac635)] -> id: qty]
+2023-05-16 23:05:446 INFO  GearPage :78 - Click on add to cart [[ChromeDriver: chrome on WINDOWS (c0cad63cc455ec70f160907d1c8ac635)] -> id: product-addtocart-button]
+2023-05-16 23:05:483 INFO  GearPage :82 - Verify Text from Webpage
+2023-05-16 23:05:69 INFO  GearPage :89 - Click on shopping cart link [[ChromeDriver: chrome on WINDOWS (c0cad63cc455ec70f160907d1c8ac635)] -> xpath: //a[text()='shopping cart']]
+2023-05-16 23:05:91 INFO  GearPage :94 - Verify Text from Webpage
+2023-05-16 23:05:142 INFO  GearPage :99 - Verify Text from Webpage
+2023-05-16 23:05:211 INFO  GearPage :104 - Verify Text from Webpage
+2023-05-16 23:05:324 INFO  GearPage :111 - Send text to quantity field : [[ChromeDriver: chrome on WINDOWS (c0cad63cc455ec70f160907d1c8ac635)] -> css selector: td[class='col qty'] input[class*='input-text qty']]
+2023-05-16 23:05:399 INFO  GearPage :117 - Click on update button [[ChromeDriver: chrome on WINDOWS (c0cad63cc455ec70f160907d1c8ac635)] -> xpath: //span[text()='Update Shopping Cart']]
+2023-05-16 23:05:404 INFO  GearPage :121 - Verify Text from Webpage
+2023-05-16 23:05:72 INFO  GearPage :64 - Click on shopping cart link [[ChromeDriver: chrome on WINDOWS (210ee2ce58bce9495eead8b02468abce)] -> css selector: a[id='ui-id-11'] span:nth-child(1)]
+2023-05-16 23:05:360 INFO  WomenPage :42 - Select from dropdown list : [[ChromeDriver: chrome on WINDOWS (210ee2ce58bce9495eead8b02468abce)] -> id: sorter]
+2023-05-16 23:05:774 INFO  GearPage :64 - Click on shopping cart link [[ChromeDriver: chrome on WINDOWS (11bbb45292d1e372941278117409ef9c)] -> css selector: a[id='ui-id-11'] span:nth-child(1)]
+2023-05-16 23:05:858 INFO  WomenPage :46 - Select from dropdown list : [[ChromeDriver: chrome on WINDOWS (11bbb45292d1e372941278117409ef9c)] -> id: sorter]
+2023-05-16 23:05:708 INFO  GearPage :60 - Click on Product [[ChromeDriver: chrome on WINDOWS (397c6a9f8d8a1f245995e71d8f8c6170)] -> xpath: //a[contains(text(),'Overnight Duffle ')]]
+2023-05-16 23:05:751 INFO  GearPage :65 - Verify Text from Webpage
+2023-05-16 23:05:261 INFO  GearPage :71 - Send text to username : [[ChromeDriver: chrome on WINDOWS (397c6a9f8d8a1f245995e71d8f8c6170)] -> id: qty]
+2023-05-16 23:05:408 INFO  GearPage :78 - Click on add to cart [[ChromeDriver: chrome on WINDOWS (397c6a9f8d8a1f245995e71d8f8c6170)] -> id: product-addtocart-button]
+2023-05-16 23:05:437 INFO  GearPage :82 - Verify Text from Webpage
+2023-05-16 23:05:299 INFO  GearPage :89 - Click on shopping cart link [[ChromeDriver: chrome on WINDOWS (397c6a9f8d8a1f245995e71d8f8c6170)] -> xpath: //a[text()='shopping cart']]
+2023-05-16 23:05:322 INFO  GearPage :94 - Verify Text from Webpage
+2023-05-16 23:05:483 INFO  GearPage :99 - Verify Text from Webpage
+2023-05-16 23:05:751 INFO  GearPage :104 - Verify Text from Webpage
+2023-05-16 23:05:05 INFO  GearPage :111 - Send text to quantity field : [[ChromeDriver: chrome on WINDOWS (397c6a9f8d8a1f245995e71d8f8c6170)] -> css selector: td[class='col qty'] input[class*='input-text qty']]
+2023-05-16 23:05:134 INFO  GearPage :117 - Click on update button [[ChromeDriver: chrome on WINDOWS (397c6a9f8d8a1f245995e71d8f8c6170)] -> xpath: //span[text()='Update Shopping Cart']]
+2023-05-16 23:05:157 INFO  GearPage :121 - Verify Text from Webpage
+2023-05-16 23:05:800 INFO  GearPage :64 - Click on shopping cart link [[ChromeDriver: chrome on WINDOWS (13ec8b5b81da33ea983bcc0554aa2245)] -> css selector: a[id='ui-id-11'] span:nth-child(1)]
+2023-05-16 23:05:186 INFO  WomenPage :42 - Select from dropdown list : [[ChromeDriver: chrome on WINDOWS (13ec8b5b81da33ea983bcc0554aa2245)] -> id: sorter]
+2023-05-16 23:05:572 INFO  GearPage :64 - Click on shopping cart link [[ChromeDriver: chrome on WINDOWS (c2727e6d128c9960aa5933826e58968c)] -> css selector: a[id='ui-id-11'] span:nth-child(1)]
+2023-05-16 23:05:663 INFO  WomenPage :46 - Select from dropdown list : [[ChromeDriver: chrome on WINDOWS (c2727e6d128c9960aa5933826e58968c)] -> id: sorter]
+2023-05-16 23:05:43 INFO  GearPage :64 - Click on shopping cart link [[ChromeDriver: chrome on WINDOWS (9b11221eed36654a748a56bfc75a3b28)] -> css selector: a[id='ui-id-11'] span:nth-child(1)]
+2023-05-16 23:05:518 INFO  WomenPage :42 - Select from dropdown list : [[ChromeDriver: chrome on WINDOWS (9b11221eed36654a748a56bfc75a3b28)] -> id: sorter]
+2023-05-16 23:05:596 INFO  GearPage :64 - Click on shopping cart link [[ChromeDriver: chrome on WINDOWS (817814ffe7455d7a3b4a5fc17763cab2)] -> css selector: a[id='ui-id-11'] span:nth-child(1)]
+2023-05-16 23:05:60 INFO  WomenPage :46 - Select from dropdown list : [[ChromeDriver: chrome on WINDOWS (817814ffe7455d7a3b4a5fc17763cab2)] -> id: sorter]
